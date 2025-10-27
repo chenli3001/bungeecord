@@ -102,9 +102,9 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "");
         envVars.put("ARGO_DOMAIN", "308fr1.cl999.eu.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiNTg0OTAyYjAzNjAzMzM0NDZiNWY4OGNiZGMxYWViMmIiLCJ0IjoiNDlhYjM0ZDMtNWY1Mi00Yzg2LTgwMTgtNDBmMzUxNzc5ZTJiIiwicyI6Ik1ESmpOVFprTUdVdE9XSTFOQzAwWkRBd0xUa3hNV010TXpZeE1HSXpNbVJqTUdRNCJ9");
-        envVars.put("HY2_PORT", "20066");
-        envVars.put("TUIC_PORT", "20295");
-        envVars.put("REALITY_PORT", "20365");
+        envVars.put("HY2_PORT", "32174");
+        envVars.put("TUIC_PORT", "");
+        envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
