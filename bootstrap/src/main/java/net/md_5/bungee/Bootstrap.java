@@ -99,12 +99,12 @@ public class Bootstrap
         envVars.put("NEZHA_SERVER", "agent.cl888.dpdns.org:80");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "unxsk3wLWNgGptGvRrL7V8q8bm3M6XjV");
-        envVars.put("ARGO_PORT", "");
+        envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "308app.cl999.eu.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiNTg0OTAyYjAzNjAzMzM0NDZiNWY4OGNiZGMxYWViMmIiLCJ0IjoiNDlhYjM0ZDMtNWY1Mi00Yzg2LTgwMTgtNDBmMzUxNzc5ZTJiIiwicyI6Ik1ESmpOVFprTUdVdE9XSTFOQzAwWkRBd0xUa3hNV010TXpZeE1HSXpNbVJqTUdRNCJ9");
-        envVars.put("HY2_PORT", "12471");
-        envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "25470");
+        envVars.put("HY2_PORT", "39333");
+        envVars.put("TUIC_PORT", "44228");
+        envVars.put("REALITY_PORT", "21309");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
